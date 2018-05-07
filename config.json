@@ -1,0 +1,11 @@
+{
+	"ANDROID_ID":"onevalue",
+	"GOOGLE_LOGIN":"twovalue",
+	"GOOGLE_PASSWORD":"threevalue",
+	"LOCAL_ROOT":"onevalue",
+	"ACCESS_KEY_ID":"twovalue",
+	"ACCESS_KEY_SECRET":"threevalue",
+	"ENDPOINT":"onevalue",
+	"REDIS_HOST":"twovalue",
+	"REDIS_PASSWORD":"threevalue"
+}
